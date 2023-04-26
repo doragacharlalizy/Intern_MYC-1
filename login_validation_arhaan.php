@@ -2,8 +2,8 @@
 
 <?php 
 
-$username = $_POST['uname'];
-$password = $_POST['user_password'];
+$username = $_POST['email'];
+$password = $_POST['password'];
 // echo "Username ::".$username."  password ::".$password;
 
 if($username == 'arhaan' && $password == 'ar'){
